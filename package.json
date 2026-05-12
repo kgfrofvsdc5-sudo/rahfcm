@@ -1,0 +1,16 @@
+{
+  "name": "fcm-wakeup-server",
+  "version": "1.0.0",
+  "description": "FCM Wakeup Server for RTO App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.5.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
